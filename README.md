@@ -16,7 +16,9 @@
 
 [Running Containerized Microservices on AWS](https://docs.aws.amazon.com/whitepapers/latest/running-containerized-microservices/introduction.html)
 
-(Blue/Green Deployment on AWS)[https://aws.amazon.com/quickstart/architecture/blue-green-deployment/]
+[Blue/Green Deployment on AWS](https://aws.amazon.com/quickstart/architecture/blue-green-deployment/)
+
+[What is AWS Elastic Beanstalk?](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
 
 all links are from freecodecamp.org [youtube](https://www.youtube.com/watch?v=RrKRN9zRBWs)
 
